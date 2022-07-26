@@ -28,4 +28,4 @@ phases:
 artifacts:
   files:
     - imagedefinitions.json
-    - target/proyectoc3.jar
+    - target/demo.jar
